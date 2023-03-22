@@ -1,0 +1,23 @@
+#star {
+    color: red;
+    display: inline;
+}
+
+input {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+select {
+    margin-bottom: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+
+}
+
+#in-line {
+    vertical-align: middle;
+}
